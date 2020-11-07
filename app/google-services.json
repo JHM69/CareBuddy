@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83270593343",
+    "firebase_url": "https://lifepack-db33e.firebaseio.com",
+    "project_id": "lifepack-db33e",
+    "storage_bucket": "lifepack-db33e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83270593343:android:1b3ade2c185c1c0ab8c18a",
+        "android_client_info": {
+          "package_name": "com.beffjezos.lifepacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83270593343-8ih862rs2ept7brag1hu9bmnhnpk3c9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beffjezos.lifepacks",
+            "certificate_hash": "6ce72517dc6b6ae0f348a1982afe4172ddaaf696"
+          }
+        },
+        {
+          "client_id": "83270593343-nhuoeajlpul15cqq1iiqoco250lkelij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7IWcNRHP4kAut4A7PtZm3HZZy4XT7tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83270593343-nhuoeajlpul15cqq1iiqoco250lkelij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
