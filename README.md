@@ -30,3 +30,7 @@
 
 #### Donate Package
 <img src="https://raw.githubusercontent.com/JHM69/CareBuddy/master/assets/ss_donate-package_scrn.jpg" height="360px" alt="Donate Package Screen Screenshot"/>
+
+#### Received Donations
+<img src="https://raw.githubusercontent.com/JHM69/CareBuddy/master/assets/ss_donations_scrn.jpg.jpg" height="360px" alt="Donation list Screen Screenshot"/>
+
