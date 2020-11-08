@@ -13,9 +13,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/package1.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/package1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CategoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CategoryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharityActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharityActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewDonorReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewDonorReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/VerifyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/VerifyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_charities_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_charities_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_charity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/holder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/holder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604825934776</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Features">
+      <created>1604827416945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604827416945</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -200,10 +223,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604785992345" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604825932855">
+    <state x="466" y="113" key="AndroidCreateXmlResourceDialog" timestamp="1604837061941">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604825932855" />
+    <state x="466" y="113" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1604837061941" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604827413905">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604827413905" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1604785939573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -220,22 +247,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="297" y="0" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1604760011208" />
-    <state width="1312" height="168" key="GridCell.Tab.0.bottom" timestamp="1604823310917">
+    <state width="1312" height="168" key="GridCell.Tab.0.bottom" timestamp="1604828424078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="168" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604823310917" />
-    <state width="1312" height="168" key="GridCell.Tab.0.center" timestamp="1604823310917">
+    <state width="1312" height="168" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604828424078" />
+    <state width="1312" height="168" key="GridCell.Tab.0.center" timestamp="1604828424078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="168" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604823310917" />
-    <state width="1312" height="168" key="GridCell.Tab.0.left" timestamp="1604823310917">
+    <state width="1312" height="168" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604828424078" />
+    <state width="1312" height="168" key="GridCell.Tab.0.left" timestamp="1604828424078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="168" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604823310917" />
-    <state width="1312" height="168" key="GridCell.Tab.0.right" timestamp="1604823310917">
+    <state width="1312" height="168" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604828424078" />
+    <state width="1312" height="168" key="GridCell.Tab.0.right" timestamp="1604828424078">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1312" height="168" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604823310917" />
+    <state width="1312" height="168" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604828424078" />
     <state x="160" y="50" key="IDE.errors.dialog" timestamp="1604760533273">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -248,13 +275,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604757253310" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604825939815">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604827474827">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604825939815" />
-    <state x="302" y="8" width="761" height="722" key="find.popup" timestamp="1604825799326">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604827474827" />
+    <state x="305" y="-2" width="906" height="733" key="find.popup" timestamp="1604829074114">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="302" y="8" width="761" height="722" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1604825799326" />
+    <state x="305" y="-2" width="906" height="733" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1604829074114" />
+    <state x="262" y="0" width="840" height="736" key="search.everywhere.popup" timestamp="1604837527865">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="262" y="0" width="840" height="736" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1604837527865" />
   </component>
 </project>
