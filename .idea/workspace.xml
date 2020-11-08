@@ -14,13 +14,26 @@
   <component name="ChangeListManager">
     <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/CharityViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/CharityViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/PackageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/PackageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_donate_money.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_donate_money.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_charity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_donation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_donation.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[f000d3b7d83]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -146,12 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604783506420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Features">
+      <created>1604786055065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604786055065</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Added Features" />
     <option name="LAST_COMMIT_MESSAGE" value="Added Features" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -164,18 +186,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="133" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1604757628772" />
-    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1604762412817">
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1604785992345">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604762412817" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604783494084">
+    <state x="441" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604785992345" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604786052503">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604783494084" />
-    <state x="401" y="65" key="FileChooserDialogImpl" timestamp="1604757270666">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604786052503" />
+    <state x="0" y="55" key="DiffContextDialog" timestamp="1604785939573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="401" y="65" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604757270666" />
+    <state x="0" y="55" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1604785939573" />
+    <state x="401" y="65" key="FileChooserDialogImpl" timestamp="1604821090706">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="401" y="65" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1604821090706" />
     <state x="475" y="220" key="Github.ShareDialog" timestamp="1604759971091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -204,13 +230,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="160" y="50" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1604760533273" />
+    <state x="297" y="2" key="RollbackChangesDialog" timestamp="1604785929025">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="297" y="2" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1604785929025" />
     <state x="104" y="0" key="SettingsEditor" timestamp="1604757253310">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604757253310" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604783566459">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604786080110">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604783566459" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604786080110" />
   </component>
 </project>
