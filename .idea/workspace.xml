@@ -13,32 +13,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CategoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CategoryActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharityActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharityActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/PackageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/PackageAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewDonorReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewDonorReg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/VerifyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/VerifyActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_charities_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_charities_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_charity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_charity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/holder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/holder.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_editable_product.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_editable_product.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[b5eacc6f]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -199,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604827416945</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Features">
+      <created>1604837858984</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604837858984</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,10 +218,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="466" y="113" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1604837061941" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604827413905">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604837856086">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604827413905" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604837856086" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1604785939573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -275,10 +266,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604757253310" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604827474827">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604837863023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604827474827" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604837863023" />
     <state x="305" y="-2" width="906" height="733" key="find.popup" timestamp="1604829074114">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
