@@ -2,7 +2,7 @@
 # CareBuddy
 ## Give a little, help a lot
 
-> a hackholyoke project
+> by Team Beff Jezos
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/JHM69/CareBuddy/master/logo.png" width="20%" alt="CareBuddy"/>
