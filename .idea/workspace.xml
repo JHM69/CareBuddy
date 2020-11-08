@@ -12,14 +12,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/ProductAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/ProductAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_donor_reg.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604839529250</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added Features">
+      <created>1604842274356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604842274356</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,10 +235,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="466" y="113" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1604837061941" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604839527449">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1604842271796">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604839527449" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604842271796" />
     <state x="0" y="55" key="DiffContextDialog" timestamp="1604785939573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -283,10 +283,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604757253310" />
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604839538398">
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2" timestamp="1604842279993">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604839538398" />
+    <state x="175" y="37" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604842279993" />
     <state x="305" y="0" width="906" height="738" key="find.popup" timestamp="1604838859255">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
